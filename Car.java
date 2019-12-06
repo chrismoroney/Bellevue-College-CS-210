@@ -1,4 +1,4 @@
-// CS210 Extra-Credit #1 "Annomated Car"
+// CS210 Extra-Credit #1 "Animated Car"
 // Chris Moroney
 // This task is the Extra-Credit #1, containing a Car that is to be annomated. What
 // I needed to do was to take the coordinates and graphics of the car and modify them
